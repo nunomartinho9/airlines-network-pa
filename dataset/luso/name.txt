@@ -1,0 +1,22 @@
+# IATA Code and City
+# ##############################
+# Açores
+SMA	Santa Maria
+PDL	Ponta Delgada
+TER	Lajes (Base aérea)
+GRW	Graciosa
+SJZ	São Jorge
+PIX	Pico
+HOR	Horta
+FLW	Flores
+CVU	Corvo
+# Continente
+BGC	Bragança
+OPO	Porto
+VSE	Viseu
+LIS	Lisboa
+BYJ	Beja
+FAO	Faro
+# Madeira
+FNC	Madeira
+PXO	Porto Santo

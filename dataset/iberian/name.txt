@@ -1,0 +1,31 @@
+# IATA	City
+SMA	Santa Maria
+PDL	Ponta Delgada
+TER	Lajes
+GRW	Graciosa
+SJZ	Sao Jorge
+PIX	Pico
+HOR	Horta
+FLW	Flores
+CVU	Corvo Airport
+BGC	Braganca
+OPO	Porto
+VSE	Viseu
+LIS	Lisboa
+BYJ	Beja
+FAO	Faro
+FNC	Madeira
+PXO	Porto Santo
+MAD	Barajas
+SVQ	Sevilla
+BIO	Bilbao
+BCN	Barcelona
+VLC	Valencia
+LEI	Almeria
+TFS	Tenerife Sur
+SCQ	Santiago
+GMZ	La Gomera Airport
+VDE	Hierro
+LPA	Gran Canaria
+FUE	Fuerteventura
+ACE	Lanzarote

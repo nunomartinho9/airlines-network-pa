@@ -1,0 +1,91 @@
+# Name	lat	long	altitude
+Luanda 4 De Fevereiro	-8,858375	13,231178	243
+Ministro Pistarini	-34,822222	-58,535833	67
+Adelaide Intl	-34,945	138,530556	20
+Darwin Intl	-12,4083333	130,87266	103
+Melbourne Intl	-37,673333	144,843333	434
+Perth Intl	-31,940278	115,966944	67
+Sydney Intl	-33,946111	151,177222	21
+Schwechat	48,110278	16,569722	600
+Grantley Adams Intl	13,074603	-59,492456	169
+Val De Cans Intl	-1,37925	-48,476292	54
+Presidente Juscelino Kubitschek	-15,8711	-47,918625	3479
+Marechal Rondon	-15,652931	-56,116719	617
+Hercilio Luz	-27,670489	-48,547181	20
+Guarulhos Gov Andre Franco Montouro	-23,432075	-46,469511	2459
+Eduardo Gomes Intl	-3,038611	-60,049721	264
+Guararapes Gilberto Freyre Intl	-8,126794	-34,923039	33
+Tabatinga	-4,255669	-69,935828	279
+Ottawa Macdonald Cartier Intl	45,3225	-75,669167	374
+Pierre Elliott Trudeau Intl	45,470556	-73,740833	118
+Vancouver Intl	49,193889	-123,184444	14
+Calgary Intl	51,113888	-114,020278	3557
+Lester B Pearson Intl	43,677223	-79,630556	569
+Arturo Merino Benitez Intl	-33,392975	-70,785803	1555
+Capital Intl	40,080111	116,584556	116
+Diwopu	43,907106	87,474244	2125
+Eldorado Intl	4,701594	-74,146947	8361
+Kastrup	55,617917	12,655972	17
+Cairo Intl	30,121944	31,405556	382
+Mediterranee	43,576194	3,963014	17
+Orly	48,725278	2,359444	291
+Mannheim City	49,472706	8,514264	309
+Tegel	52,559686	13,287711	122
+Eleftherios Venizelos Intl	37,936358	23,944467	308
+Hong Kong Intl	22,308919	113,914603	28
+Keflavik Nas	63,985	-22,605556	171
+Reykjavik	64,13	-21,940556	48
+Indira Gandhi Intl	28,5665	77,103088	777
+Soekarno Hatta Intl	-6,125567	106,655897	34
+Dublin	53,421333	-6,270075	242
+Ben Gurion	32,011389	34,886667	135
+Fiumicino	41,804475	12,250797	15
+Napoles	40,886033	14,290781	294
+Sangster Intl	18,503717	-77,913358	4
+Almaty	43,352072	77,040508	2234
+Astana Intl	51,022222	71,466944	1165
+Luxembourg	49,626575	6,211517	1234
+Ivato	-18,79695	47,478806	4198
+Kuala Lumpur Intl	2,745578	101,709917	69
+Luqa	35,857497	14,4775	300
+Sir Seewoosagur Ramgoolam Intl	-20,430235	57,6836	186
+Cancun Intl	21,036528	-86,877083	20
+Licenciado Benito Juarez Intl	19,436303	-99,072097	7316
+Chinggis Khaan Intl	47,843056	106,766639	4364
+Windhoek Hosea Kutako International Airport 	-22,486667	17,4625	5640
+Auckland Intl	-37,008056	174,791667	23
+Christchurch Intl	-43,489358	172,532225	123
+Wellington Intl	-41,327221	174,805278	41
+Jorge Chavez Intl	-12,021889	-77,114319	113
+Okecie	52,16575	20,967122	362
+Madeira	32,697889	-16,774453	192
+Lisboa	38,781311	-9,135919	374
+Ponta Delgada	37,741184	-25,69787	259
+Novyi Urengoy	66,041811	76,313938	20
+Sheremetyevo	55,972642	37,414589	622
+Knevichi	43,398953	132,148017	46
+Yakutsk	62,09325	129,770672	325
+Singapore Changi Intl	1,350189	103,994433	22
+Cape Town Intl	-33,964806	18,601667	151
+Durban Intl	-29,970089	30,950519	33
+Port Elizabeth Intl	-33,984919	25,617275	226
+Incheon Intl	37,469075	126,450517	23
+Malaga	36,6749	-4,499106	52
+Barajas	40,493556	-3,566764	2000
+Suvarnabhumi Intl	13,681108	100,747283	5
+Abu Dhabi Intl	24,432972	54,651138	88
+Dubai Intl	25,252778	55,364444	62
+Edinburgh	55,95	-3,3725	135
+Heathrow	51,4775	-0,461389	83
+General Edward Lawrence Logan Intl	42,364347	-71,005181	19
+Fort Lauderdale Hollywood Intl	26,072583	-80,15275	9
+Indianapolis Intl	39,717331	-86,294383	797
+John F Kennedy Intl	40,639751	-73,778925	13
+Los Angeles Intl	33,942536	-118,408075	126
+Orlando Intl	28,429394	-81,308994	96
+Miami Intl	25,79325	-80,290556	8
+Portland Intl	45,588722	-122,5975	30
+San Francisco Intl	37,618972	-122,374889	13
+Salt Lake City Intl	40,788389	-111,977772	4227
+Sacramento Intl	38,695417	-121,590778	27
+Simon Bolivar Intl	10,603117	-66,990583	235

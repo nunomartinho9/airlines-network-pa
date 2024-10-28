@@ -1,0 +1,91 @@
+# IATA code	and City
+LAD	Luanda
+EZE	Buenos Aires
+ADL	Adelaide
+DRW	Darwin
+MEL	Melbourne
+PER	Perth
+SYD	Sydney
+VIE	Vienna
+BGI	Bridgetown
+BEL	Belem
+BSB	Brasilia
+CGB	Cuiaba
+FLN	Florianopolis
+GRU	Sao Paulo
+MAO	Manaus
+REC	Recife
+TBT	Tabatinga
+YOW	Ottawa
+YUL	Montreal
+YVR	Vancouver
+YYC	Calgary
+YYZ	Toronto
+SCL	Santiago
+PEK	Beijing
+URC	Urumqi
+BOG	Bogota
+CPH	Copenhagen
+CAI	Cairo
+MPL	Montpellier
+ORY	Paris
+MHG	Mannheim
+TXL	Berlin
+ATH	Athens
+HKG	Hong Kong
+KEF	Keflavik
+RKV	Reykjavik
+DEL	Delhi
+CGK	Jakarta
+DUB	Dublin
+TLV	Tel-aviv
+FCO	Rome
+NAP	Naples
+MBJ	Montego Bay
+ALA	Alma-ata
+TSE	Tselinograd
+LUX	Luxemburg
+TNR	Antananarivo
+KUL	Kuala Lumpur
+MLA	Malta
+MRU	Plaisance
+CUN	Cancun
+MEX	Mexico City
+ULN	Ulan Bator
+WDH	Windhoek
+AKL	Auckland
+CHC	Christchurch
+WLG	Wellington
+LIM	Lima
+WAW	Warsaw
+FNC	Funchal
+LIS	Lisbon
+PDL	Ponta Delgada
+NUX	Novyi Urengoy
+SVO	Moscow
+VVO	Vladivostok
+YKS	Yakutsk
+SIN	Singapore
+CPT	Cape Town
+DUR	Durban
+PLZ	Port Elizabeth
+ICN	Seoul
+AGP	Malaga
+MAD	Madrid
+BKK	Bangkok
+AUH	Abu Dhabi
+DXB	Dubai
+EDI	Edinburgh
+LHR	London
+BOS	Boston
+FLL	Fort Lauderdale
+IND	Indianapolis
+JFK	New York
+LAX	Los Angeles
+MCO	Orlando
+MIA	Miami
+PDX	Portland
+SFO	San Francisco
+SLC	Salt Lake City
+SMF	Sacramento
+CCS	Caracas
